@@ -13,7 +13,7 @@ However, the analysis will be narrowed down to focus on understanding and calcul
 - Regional performance using various metrics
 - Monthly sales trends
 
-### DATA COLLECTED
+### Data Collected
 
 The dataset includes the following key columns
 - 
