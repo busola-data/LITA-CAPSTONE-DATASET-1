@@ -35,6 +35,6 @@ To achieve the above, the project will further analyzed the following:
 -  Unit Price : It is the amount tag on each product
 -  Revenue : This is the total sales of products sold
 
-  ### This project is designed to address the following analysis
+  ### Key Metrics
 
  - 
