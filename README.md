@@ -14,12 +14,13 @@ However, the analysis will be narrowed down to focus on understanding and calcul
 - Monthly sales trends
 
 To achieve the above, the project will further analyzed the following:
+
 1. Revenue by Region - It determines the Total Sales generated in each region
 2. Total Sales by product- It analyzed the unit price of all products sold to identify the most patronized one
 3. Monthly Total sales - Calculate the sum revenue generated in aech month
 4. Quantity sold per region and percentage - Analyze the number of quantity sold across differant regions to identity the highest selling locations
 5. Top ten monthly sales - It articulate the highest top ten monthly revenue generated between year 2023 & 2024 reviewed
-6. .
+6. Average monthly quantity sold - Calculate the average quantity sold in each month to assess performance, etc
 
 ### Data Collected
  
