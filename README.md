@@ -39,7 +39,7 @@ To achieve the above, the project will further analyzed the following:
   ### Key Metrics
 
  - Revenue or Sales: Quantity sold multiplied by unit price.
-          =PRODUCT(F2,G2)
+          =PRODUCT(F2,G2) i.e 5*20 =100
  
 - Average Revenue : Sum revenue divided by total revenue count
            =AVERAGE(H2:H50001)
