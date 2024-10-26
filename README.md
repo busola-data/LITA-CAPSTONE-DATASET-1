@@ -85,7 +85,7 @@ However, the analysis will be narrowed down to focus on understanding and calcul
 
 
 
-![image](https://github.com/user-attachments/assets/8ea49273-151a-4d15-bc4b-5a0abbdce5c5)
+![image](https://github.com/user-attachments/assets/23ee496f-b1b4-4fea-a053-983e17a3e038)
 
 
   ### Key Metrics
