@@ -18,26 +18,26 @@ However, the analysis will be narrowed down to focus on understanding and calcul
 ### Project Aims and Objectives
 ---
 
-1. Revenue by Region - It determines the Total Sales generated in each region
-2. Total Sales by product- It analyzed the unit price of all products sold to identify the most patronized one
-3. Monthly Total sales - Calculate the sum revenue generated in aech month
-4. Quantity sold per region and percentage - Analyze the number of quantity sold across differant regions to identity the highest selling locations
-5. Top ten monthly sales - It articulate the highest top ten monthly revenue generated between year 2023 & 2024 reviewed
-6. Average monthly quantity sold - Calculate the average quantity sold in each month to assess performance, etc
+1. Revenue by Region - Is to determine the Total Sales generated in each region
+2. Total Sales by product- To analyzed the unit price of all products sold to identify the most patronized one
+3. Monthly Total sales - To Calculate the sum revenue generated in aech month
+4. Quantity sold per region and percentage - To Analyze the number of quantity sold across differant regions to identity the highest selling locations
+5. Top ten monthly sales - This is to articulate the highest top ten monthly revenue generated between year 2023 & 2024 reviewed
+6. Average monthly quantity sold - To Calculate the average quantity sold in each month to assess performance, etc
 
 ### Data Sources
  ---
  
  The data set includes the following key column;
  
-- OrderBy: Is a unique code that identifies each customers request
+- OrderBy: This is a unique code that identifies each customers request
 -  Customer: An individual who patronizes or buys products
 -  Product : The name of items sold in a particular qeographical location
--  Region :  The geographical area where the products are been sold
--  OrderDate :It is the specific day customer place an oredr
+-  Region :  This is the geographical area where the products are been sold
+-  OrderDate :It is the specific day customer placed an order
 -  Quantity : This is the number of items purchased by customers
--  Unit Price : It is the amount tag on each product
--  Revenue : This is the total sales of products sold
+-  Unit Price : It is the amount tagged on each product
+-  Revenue : Is the total monetary value generated for the sale of a product at a unit price
 
 ### Tools Used
 ---
@@ -47,10 +47,32 @@ However, the analysis will be narrowed down to focus on understanding and calcul
   2. Data Analysis
   3. Visualizations
   
+ ### Tools & Methods Used
+ ---
+
+  1. Data Analysis: The data was arranged and analyzed using Microsoft Excel, utilizing Pivot Tables to arrange, summarize and filter the data for better interpretation.
+  2. Data Visualization: Bar charts and Pie charts were created in Excel to visually represent the key insight.
+
+
+     ### Visual Analysis & Inferences
+     ---
+
+ - Revenue by Region
+
+
+
+
+![image](https://github.com/user-attachments/assets/5ccc9ea6-2c4d-40ad-849e-8d0cf27f924f)
+
   
   
-  
-  
+
+
+
+![image](https://github.com/user-attachments/assets/72b4a8af-1248-42e6-82bd-f6f98b09e6d3)
+
+
+
   
   ### Key Metrics
 
