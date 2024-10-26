@@ -4,6 +4,7 @@
 
 
 ### Project Overview
+---
 
 This project collects and analyse sales data from various regions with the aim to show differents products ordered by various customers.
 The goal is to provide insight into sales revenue, products type, unit price and quantity purchased over different periods of time.
@@ -15,6 +16,7 @@ However, the analysis will be narrowed down to focus on understanding and calcul
 - Monthly sales trends
 
 ### Project Aims and Objectives
+---
 
 1. Revenue by Region - It determines the Total Sales generated in each region
 2. Total Sales by product- It analyzed the unit price of all products sold to identify the most patronized one
@@ -24,6 +26,7 @@ However, the analysis will be narrowed down to focus on understanding and calcul
 6. Average monthly quantity sold - Calculate the average quantity sold in each month to assess performance, etc
 
 ### Data Sources
+ ---
  
  The data set includes the following key column;
  
@@ -37,6 +40,8 @@ However, the analysis will be narrowed down to focus on understanding and calcul
 -  Revenue : This is the total sales of products sold
 
 ### Tools Used
+---
+
 - Microsoft Excel [Download Here](https://www.microsoft.com)
   1. Data Cleaning
   2. Data Analysis
