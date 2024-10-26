@@ -14,7 +14,7 @@ However, the analysis will be narrowed down to focus on understanding and calcul
 - Regional performance using various metrics
 - Monthly sales trends
 
-To achieve the above, the project will further analyzed the following:
+### Project Aims and Objectives
 
 1. Revenue by Region - It determines the Total Sales generated in each region
 2. Total Sales by product- It analyzed the unit price of all products sold to identify the most patronized one
@@ -23,7 +23,7 @@ To achieve the above, the project will further analyzed the following:
 5. Top ten monthly sales - It articulate the highest top ten monthly revenue generated between year 2023 & 2024 reviewed
 6. Average monthly quantity sold - Calculate the average quantity sold in each month to assess performance, etc
 
-### Data Collected
+### Data Sources
  
  The data set includes the following key column;
  
@@ -36,6 +36,17 @@ To achieve the above, the project will further analyzed the following:
 -  Unit Price : It is the amount tag on each product
 -  Revenue : This is the total sales of products sold
 
+### Tools Used
+- Microsoft Excel [Download Here](https://www.microsoft.com)
+  1. Data Cleaning
+  2. Data Analysis
+  3. Visualizations
+  
+  
+  
+  
+  
+  
   ### Key Metrics
 
  - Revenue or Sales: Quantity sold multiplied by unit price.
