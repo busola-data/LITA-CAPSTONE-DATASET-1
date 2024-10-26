@@ -6,8 +6,8 @@
 ### Project Overview
 ---
 
-This project collects and analyse sales data from various regions with the aim to show differents products ordered by various customers.
-The goal is to provide insight into sales revenue, products type, unit price and quantity purchased over different periods of time.
+This project collects and analyse sales data from various regions with the aim to show different products ordered by various customers.
+The goal is to provide insight into sales revenue, products type, unit price and quantity purchased over two years period of time.
 
 However, the analysis will be narrowed down to focus on understanding and calculating:
 
