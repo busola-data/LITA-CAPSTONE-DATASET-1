@@ -1,7 +1,8 @@
 # LITA-CAPSTONE-DATASET-1
 
 ## SALES DATA ANALYSIS PROJECT
- 
+
+
 ### Project Overview
 
 This project collects and analyse sales data from various regions with the aim to show differents products ordered by various customers.
@@ -37,4 +38,16 @@ To achieve the above, the project will further analyzed the following:
 
   ### Key Metrics
 
- - 
+ - Revenue or Sales: Quantity sold multiplied by unit price.
+          =PRODUCT(F2,G2)
+ 
+- Average Revenue : Sum revenue divided by total revenue count
+           =AVERAGE(H2:H50001)
+- Total Quantity Sold : Sum of quantity sold
+            =SUM(F2:F50001)
+- Total Revenue : Sum of the revenue column
+           =SUM(H2:H50001)
+- Total No of Order : Total count of OrderID column
+           =COUNTA(A2:A50001)
+
+  ### 
