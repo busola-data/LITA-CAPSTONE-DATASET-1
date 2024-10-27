@@ -57,16 +57,19 @@ However, the analysis will be narrowed down to focus on understanding and calcul
      ### Visual Analysis & Inferences
      ---
 
- - Revenue by Region
+ - Sales Revenue by Region
 
 
+
+![image](https://github.com/user-attachments/assets/9dee7052-d061-4f05-a0d2-da2667c4f22a)
 
 
 
 
 
   
-  
+  ![image](https://github.com/user-attachments/assets/86018c3b-2f43-4226-a8fe-00cd7d049f0a)
+
 
 
 
