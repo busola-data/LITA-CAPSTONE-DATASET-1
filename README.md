@@ -65,6 +65,7 @@ However, the analysis will be narrowed down to focus on understanding and calcul
 
 
 
+It can be deduced from the above analysis that South Region has the highest revenue to a tune of #4,676,000
 
 
   
