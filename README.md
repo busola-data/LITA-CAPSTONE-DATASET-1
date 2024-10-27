@@ -92,6 +92,25 @@ However, the analysis will be narrowed down to focus on understanding and calcul
 ![image](https://github.com/user-attachments/assets/23ee496f-b1b4-4fea-a053-983e17a3e038)
 
 
+
+
+- Monthly Sales By Revenue
+
+
+
+![image](https://github.com/user-attachments/assets/83410df9-9b64-45c5-9446-4ee18e120ff1)
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/3e5d49cc-e524-49b4-a810-c0d37477d577)
+
+
+
+
+
+
   ### Key Metrics
 
  - Revenue or Sales: Quantity sold multiplied by unit price.
