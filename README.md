@@ -83,7 +83,7 @@ However, the analysis will be narrowed down to focus on understanding and calcul
 
 
  
-![image](https://github.com/user-attachments/assets/8080fa3a-21ad-4b86-8207-4f62a0f14b84)
+![image](https://github.com/user-attachments/assets/56504f41-e3d8-42aa-8573-a3959fc6de9e)
 
 
 
