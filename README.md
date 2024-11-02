@@ -95,7 +95,7 @@ From the above analysis we can see that the South Region has the highest revenue
 The analysis above shows that the East and North Region generate highest revenue from the sale of Shirts, Shoes from South and Hats from West.  
 
 
-- Monthly Sales By Revenue
+- Monthly Sales By Revenue 
 
 
 
@@ -109,6 +109,16 @@ The analysis above shows that the East and North Region generate highest revenue
 
 
 
+
+MONTHLY SALES REVENUE FOR 2023 & 2024 analyzed
+
+ 
+![image](https://github.com/user-attachments/assets/49557263-cf0c-45db-90f5-1080895fff5c)
+
+
+
+
+The peak selling period is month of February as displayed on charts for year 2023 & 2024 reviewed
 
 - Average Sales Per Product
 
