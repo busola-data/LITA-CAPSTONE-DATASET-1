@@ -123,18 +123,9 @@ From the above analysis we can see that the South Region has the highest revenue
 ![image](https://github.com/user-attachments/assets/029d1419-46c5-4a4f-bce4-11c5d6a20cfc)
 
 
-  ### Key Metrics
 
- - Revenue or Sales: Quantity sold multiplied by unit price.
-          =PRODUCT(F2,G2) i.e 5*20 =100
- 
-- Average Revenue : Sum revenue divided by total revenue count
-           =AVERAGE(H2:H50001)
-- Total Quantity Sold : Sum of quantity sold
-            =SUM(F2:F50001)
-- Total Revenue : Sum of the revenue column
-           =SUM(H2:H50001)
-- Total No of Order : Total count of OrderID column
-           =COUNTA(A2:A50001)
+
+
+  ![image](https://github.com/user-attachments/assets/16a50ea5-bcb8-4412-940c-9084aba404b3)
 
   ### 
