@@ -72,6 +72,12 @@ From the above analysis we can see that the South Region has the highest revenue
   ![image](https://github.com/user-attachments/assets/86018c3b-2f43-4226-a8fe-00cd7d049f0a)
 
 
+- Average Sales Per Product
+
+
+ 
+![image](https://github.com/user-attachments/assets/256fb160-44cf-4f56-b9f0-b1df3b81a6ef)
+
 
 
 
