@@ -15,7 +15,7 @@ However, the analysis will be narrowed down to focus on understanding and calcul
 - Regional performance using various metrics
 - Monthly sales trends
 
-### [Project Aims and Objectives](#projectaimsand-objectives)
+### [Project Aims and Objectives](#projectaims-andobjectives)
 ---
 
 1. Revenue by Region - Is to determine the Total Sales generated in each region
@@ -25,7 +25,7 @@ However, the analysis will be narrowed down to focus on understanding and calcul
 5. Top ten monthly sales - This is to articulate the highest top ten monthly revenue generated between year 2023 & 2024 reviewed
 6. Average monthly quantity sold - To Calculate the average quantity sold in each month to assess performance, etc
 
-### [Data Sources](#Data-Sources)
+### [Data Sources](#data-sources)
  ---
  
  The data set includes the following key column;
@@ -39,7 +39,7 @@ However, the analysis will be narrowed down to focus on understanding and calcul
 -  Unit Price : It is the amount tagged on each product
 -  Revenue : Is the total monetary value generated for the sale of a product at a unit price
 
-### Tools Used
+### [Tools Used](#tools-used)
 ---
 
 - Microsoft Excel [Download Here](https://www.microsoft.com)
@@ -47,7 +47,7 @@ However, the analysis will be narrowed down to focus on understanding and calcul
   2. Data Analysis
   3. Visualizations
   
- ### Tools & Methods Used
+ ### Tools And Methods Used
  ---
 
   1. Data Analysis: The data was arranged and analyzed using Microsoft Excel, utilizing Pivot Tables to arrange, summarize and filter the data for better interpretation.
