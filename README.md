@@ -3,7 +3,7 @@
 ## SALES DATA ANALYSIS PROJECT
 
 
-### Project Overview
+### [Project Overview](#project-overview)
 ---
 
 This project collects and analyse sales data from various regions with the aim to show different products ordered by various customers.
@@ -15,7 +15,7 @@ However, the analysis will be narrowed down to focus on understanding and calcul
 - Regional performance using various metrics
 - Monthly sales trends
 
-### Project Aims and Objectives
+### [Project Aims and Objectives](#projectaimsand-objectives)
 ---
 
 1. Revenue by Region - Is to determine the Total Sales generated in each region
@@ -25,7 +25,7 @@ However, the analysis will be narrowed down to focus on understanding and calcul
 5. Top ten monthly sales - This is to articulate the highest top ten monthly revenue generated between year 2023 & 2024 reviewed
 6. Average monthly quantity sold - To Calculate the average quantity sold in each month to assess performance, etc
 
-### Data Sources
+### [Data Sources](#Data-Sources)
  ---
  
  The data set includes the following key column;
@@ -145,3 +145,6 @@ As deduced from the above analysis, Hat remains the peak selling product, follow
 
 
   ### 
+
+  ```` SQL
+
