@@ -148,3 +148,62 @@ As deduced from the above analysis, Hat remains the peak selling product, follow
 
   ```` SQL
 
+
+create database LITA_CAPSTONE
+
+SELECT *FROM [dbo].[LITA Capstone Dataset N]
+
+-----retrieve the total sales for each product category.
+
+Select Product, Sum (Revenue) as Revenue from [dbo].[LITA Capstone Dataset N]
+Group by Product
+
+
+-----find the number of sales transactions in each region
+
+Select Region, count(Orderid) As noofrevenuetransaction from [dbo].[LITA Capstone Dataset N]
+Group by Region
+
+
+-------find the highest-selling product by total sales value.
+
+Select Product, max(Revenue) as totalsalesvalue from [dbo].[LITA Capstone Dataset N]
+Group by Product
+
+
+-------calculate total revenue per product.
+
+Select Product, sum(Revenue) as totalrevenue_per_product from [dbo].[LITA Capstone Dataset N]
+Group by Product
+ 
+
+ -------calculate monthly sales totals for the current year.
+
+Select OrderDate, Sum(Revenue) as monthlyrevenue from [dbo].[LITA Capstone Dataset N]
+Where Orderdate between '2024-01-01' and '2024-12-31'
+Group by Orderdate
+Order by Orderdate
+
+
+-----Find the top 5 customers by total purchase amount---------
+
+Select Top 5 Customer_id, Sum(Revenue) as Totalpurchase from [dbo].[LITA Capstone Dataset N]
+Group by Customer_id
+Order by Totalpurchase desc
+
+
+-----calculate the percentage of total sales contributed by each region.
+
+Select Region, Sum(revenue)
+As Total_Revenue, Sum(revenue)* 100.0 /(2101090) As Percentage_Revenue_By_Region from [dbo].[LITA Capstone Dataset N]
+Group by Region
+Order by Percentage_Revenue_by_Region Desc;
+Select Sum(revenue) from [dbo].[LITA Capstone Dataset N]
+
+
+-----identify products with no sales in the last quarter.
+
+Select Product, OrderDate, OrderId, Revenue from [dbo].[LITA Capstone Dataset N]
+Where Product not in (select Product from [dbo].[LITA Capstone Dataset N]
+Where OrderDate >=DATEADD(QUARTER, -1, GETDATE()));
+````
