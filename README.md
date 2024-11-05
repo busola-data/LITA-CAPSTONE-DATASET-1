@@ -141,7 +141,7 @@ The peak selling period is month of February as displayed on charts for year 202
 
 ![image](https://github.com/user-attachments/assets/754a8919-0f11-4b46-8fbb-4ed39136171d)
 
-As deduced from the above analysis, Hat remains the peak selling product, followed by shoes, Gloves and shirts shared the same figure and down to the least patronized product
+As deduced from the above analysis, Hat remains the peak selling product, followed by shoes, Gloves and shirts shared the same figure and down to the least patronized product.
 
 
   ### 
