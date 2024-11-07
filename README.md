@@ -207,3 +207,8 @@ Select Product, OrderDate, OrderId, Revenue from [dbo].[LITA Capstone Dataset N]
 Where Product not in (select Product from [dbo].[LITA Capstone Dataset N]
 Where OrderDate >=DATEADD(QUARTER, -1, GETDATE()));
 ````
+
+
+### [CONCLUSION AND RECOMMENDATION](#conclusion-andrecommendation)
+
+It can be deduced from the analysis on charts above that the South Region has the highest sales revenue unlike the West which has the least returns. This implies that the products sold in the West should be looked into, the marketing strategy or products redesign can also be a great assistance to improve sales performance.  
