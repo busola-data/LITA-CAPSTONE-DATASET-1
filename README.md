@@ -47,14 +47,14 @@ However, the analysis will be narrowed down to focus on understanding and calcul
   2. Data Analysis
   3. Visualizations
   
- ### Tools And Methods Used
+ ### [Tools And Methods Used](#tools-andmethodsused)
  ---
 
   1. Data Analysis: The data was arranged and analyzed using Microsoft Excel, utilizing Pivot Tables to arrange, summarize and filter the data for better interpretation.
   2. Data Visualization: Bar charts and Pie charts were created in Excel to visually represent the key insight.
 
 
-     ### Visual Analysis & Inferences
+     ### [Visual Analysis & Inferences](#visuals-analysis&inferences)
      ---
 
  - Sales Revenue by Region
