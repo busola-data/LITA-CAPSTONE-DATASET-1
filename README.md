@@ -21,7 +21,7 @@ However, the analysis will be narrowed down to focus on understanding and calcul
 1. Revenue by Region - Is to determine the Total Sales generated in each region
 2. Total Sales by product- To analyzed the unit price of all products sold to identify the most patronized one
 3. Monthly Total sales - To Calculate the sum revenue generated in each month
-4. Quantity sold per region and percentage - To Analyze the number of quantity sold across differant regions to identity the highest selling locations
+4. Quantity sold per region and percentage - To Analyze the number of quantity sold across different regions to identity the highest selling locations
 5. Top ten monthly sales - This is to articulate the highest top ten monthly revenue generated between year 2023 & 2024 reviewed
 6. Average monthly quantity sold - To Calculate the average quantity sold in each month to assess performance, etc
 
@@ -144,7 +144,7 @@ The peak selling period is month of February as displayed on charts for year 202
 As deduced from the above analysis, Hat remains the peak selling product, followed by shoes, Gloves and shirts shared the same figure and down to the least patronized product.
 
 
-  ### 
+  # Furthermore, the structured query language loaded for the analyzed dataset is as follows:
 
   ```` SQL
 
