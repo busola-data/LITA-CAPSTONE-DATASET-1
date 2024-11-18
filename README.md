@@ -208,6 +208,19 @@ Where Product not in (select Product from [dbo].[LITA Capstone Dataset N]
 Where OrderDate >=DATEADD(QUARTER, -1, GETDATE()));
 ````
 
+### Other Visualizations included are:
+
+<img width="593" alt="image" src="https://github.com/user-attachments/assets/b075bfb8-02ae-4533-8539-acfac04f60c9">
+
+As seen on chart above, the sum of quantity sold is 345,000 given a value of #10,587,500
+sum of sales revenue per region is represented with the stacked chart. The South region led with a sum of #4.7m over others
+
+---
+
+<img width="590" alt="image" src="https://github.com/user-attachments/assets/11ebfe4c-747b-4db1-a384-5a8cfd3437d9">
+
+
+
 
 ### [CONCLUSION AND RECOMMENDATION](#conclusion-andrecommendation)
 
